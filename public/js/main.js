@@ -26,3 +26,4 @@ function erase() {
     formule.value = "";
     result.textContent = "";
 }
+
